@@ -11,7 +11,7 @@ export const User = (props) => {
         </div>
         <div className="row">
           <div className="col-xs-12">
-            <p>Username: {props.username}</p>
+            <p>Name: {props.username}</p>
           </div>
         </div>
       </div>
